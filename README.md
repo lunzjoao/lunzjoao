@@ -11,7 +11,7 @@
 </div>
 <br>
 <br>
-<h2 align="center"> <strong>contact me</strong> </h2>
+<h1 align="center"> <strong>contact me</strong> </h1>
 <div align="center">  
   <a href="https://discord.gg/lunzjoao" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://x.com/joaoplunz" target="_blank"><img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a> 
