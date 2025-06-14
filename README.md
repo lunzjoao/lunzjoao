@@ -1,4 +1,4 @@
-
+![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&&color=0:808080,100:000080) 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lunzjoao&show_icons=true&theme=tokyonight&border_radius=0" />
 </a>
