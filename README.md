@@ -11,7 +11,8 @@
 </div>
 <br>
 <br>
-<div align="center"> 
+<h2 align="center"> <strong>contact me</strong> </h2>
+<div align="center">  
   <a href="https://discord.gg/lunzjoao" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://x.com/joaoplunz" target="_blank"><img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a> 
   <a href="mailto:lunzjoao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
