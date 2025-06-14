@@ -1,5 +1,5 @@
 ![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&&color=0:808080,100:000080) 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=090f60&size=42&center=true&vCenter=true&width=1000&lines=Hello+there;I'm+Lunz;Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=090f60&size=42&center=true&vCenter=true&width=1000&lines=Hello+there!;I'm+Lunz;Welcome!+:%29)
 
 <div align="center">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lunzjoao&show_icons=true&theme=tokyonight&hide_border=true" />
