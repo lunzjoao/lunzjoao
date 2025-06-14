@@ -8,14 +8,15 @@
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=java,kotlin,py,nodejs,react,aws,docker,git,bash" />
-</div>
+
 <br>
 <br>
-<h1 align="center"> <strong>contact me</strong> </h1>
-<div align="center">  
+<br>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=800&pause=1000&color=D3D3D3&repeat=false&width=435&lines=Contact+me!&center=true&vCenter=true&width=1000)](https://git.io/typing-svg)
+ <div align="center">  
   <a href="https://discord.gg/lunzjoao" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://x.com/joaoplunz" target="_blank"><img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a> 
   <a href="mailto:lunzjoao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
   
