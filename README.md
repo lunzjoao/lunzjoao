@@ -1,6 +1,5 @@
 ![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&&color=0:808080,100:000080&reversal=true&section=header&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&letterSpacing=&pause=1000&color=1400DF97&center=true&vCenter=true&width=1000&height=45&lines=Hello+there!+;I'm+Lunz;I'm+a+fullstack+developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&letterSpacing=&pause=1000&color=5504FF88&center=true&vCenter=true&width=1000&height=45&lines=Hello+there!+;I'm+Lunz;I'm+a+fullstack+developer)](https://git.io/typing-svg)
 
 <div align="center">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lunzjoao&show_icons=true&theme=tokyonight&hide_border=true" />
