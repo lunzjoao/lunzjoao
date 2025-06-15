@@ -14,8 +14,8 @@
 <br>
 <br>
 <br>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=800&pause=1000&color=D3D3D3&repeat=false&width=435&lines=Contact+me!&center=true&vCenter=true&width=1000)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&letterSpacing=&pause=1000&color=A9A9A9C8&background=FFFFFF10&center=true&vCenter=true&repeat=false&width=225&height=30&lines=+Contact+me!)](https://git.io/typing-svg)
  <div align="center">  
   <a href="https://discord.gg/lunzjoao" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://x.com/joaoplunz" target="_blank"><img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a> 
