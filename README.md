@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&&color=0:808080,100:000080) 
+![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&&color=0:808080,100:000080&reversal=true&section=header&animation=fadeIn) 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=090f60&size=42&center=true&vCenter=true&width=1000&lines=Hello+there!;I'm+Lunz;Welcome!+:%29)
 
 <div align="center">
@@ -19,4 +19,5 @@
   <a href="https://x.com/joaoplunz" target="_blank"><img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a> 
   <a href="mailto:lunzjoao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  
+ ![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&&color=0:808080,100:000080&reversal=true&section=footer&animation=fadeIn) 
+ 
