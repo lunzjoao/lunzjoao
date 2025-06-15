@@ -1,6 +1,6 @@
 ![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&&color=0:808080,100:000080&reversal=true&section=header&animation=fadeIn)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&letterSpacing=&pause=1000&color=1400DF00&background=FFFFFF00&center=true&vCenter=true&width=255&height=30&lines=+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&letterSpacing=&pause=1000&color=1400DF97&background=14239F48&center=true&vCenter=true&width=310&height=30&lines=Hello+there!+;I'm+Lunz;I'm+a+fullstack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&letterSpacing=&pause=1000&color=1400DF97&background=14239F48&center=true&vCenter=true&width=340&height=45&lines=Hello+there!+;I'm+Lunz;I'm+a+fullstack+developer)](https://git.io/typing-svg)
 
 
 <div align="center">
