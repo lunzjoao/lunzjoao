@@ -6,14 +6,15 @@
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,kotlin,py,nodejs,react,aws,docker,git,bash" />
+ <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,kotlin,py,nodejs,react,aws,docker,git,bash,figma,tailwind,mysql&perline=6"/>
 
 <br>
 <br>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=18&pause=1000&color=A9A9A9C8&background=FFFFFF10&center=true&vCenter=true&repeat=false&width=135&height=30&lines=+Contact+me!)](https://git.io/typing-svg)
+ 
  <div align="center">  
   <a href="https://discord.gg/lunzjoao" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://x.com/joaoplunz" target="_blank"><img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a> 
