@@ -3,7 +3,7 @@
 
 <div align="center">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lunzjoao&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lunzjoao&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
  <a href="https://skillicons.dev">
